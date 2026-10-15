@@ -30,7 +30,7 @@ def build_notebook():
 **Department of Artificial Intelligence and Data Science**  
 **KPR Institute of Engineering and Technology**  
 **Academic Year:** 2026-2027 (Odd Semester) | **Batch:** 2023-2027 (Semester V)  
-**Author:** Cheeranjeevan K  
+**Author:** Cheeranjeevan K (Roll No: `24AD023`)  
 **Course Coordinator:** Mr. Rushikesh Kadam  
 
 ---

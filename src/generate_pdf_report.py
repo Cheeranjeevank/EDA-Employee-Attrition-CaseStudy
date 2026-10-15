@@ -136,7 +136,7 @@ def generate_pdf():
     row_h = 7.5
     metadata_rows = [
         ("Student Name:", "Cheeranjeevan K"),
-        ("Roll Number:", "717823P115 (Student ID)"),
+        ("Roll Number:", "24AD023"),
         ("Degree & Department:", "B.Tech. Artificial Intelligence and Data Science"),
         ("Batch / Semester:", "Batch 2023-2027 / Semester V"),
         ("Course Title & Code:", "Exploratory Data Analysis & Visualization (U21ADP05)"),

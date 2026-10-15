@@ -13,7 +13,7 @@
 
 ### Student Information
 - **Student Name:** Cheeranjeevan K
-- **Roll Number:** 717823P115 *(Replace with exact institutional Roll No. if required)*
+- **Roll Number:** 24AD023
 - **Department:** Artificial Intelligence and Data Science
 - **Year / Semester:** Year III / Semester V
 - **Degree:** B.Tech. Artificial Intelligence and Data Science
