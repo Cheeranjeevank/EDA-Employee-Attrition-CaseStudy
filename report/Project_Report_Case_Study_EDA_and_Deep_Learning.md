@@ -3,7 +3,7 @@
 
 **Course Code:** U21ADP05  
 **Course Title:** Exploratory Data Analysis and Visualization  
-**Academic Year:** 2026 – 2027 (Odd Semester) | **Batch:** 2023 – 2027  
+**Academic Year:** 2026 – 2027 (Odd Semester) | **Batch:** 2024 – 2028  
 **Department:** Department of Artificial Intelligence and Data Science  
 **Institution:** KPR Institute of Engineering and Technology, Coimbatore  
 **Course Coordinator:** Mr. Rushikesh Kadam  

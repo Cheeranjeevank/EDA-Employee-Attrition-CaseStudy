@@ -2,7 +2,7 @@
 Exploratory Data Analysis and Visualization Module
 Author: Cheeranjeevan K
 Course: U21ADP05 - Exploratory Data Analysis and Visualization
-Academic Year: 2026-2027 (Batch 2023-2027)
+Academic Year: 2026-2027 (Batch 2024-2028)
 
 This module systematically executes Ben Fry's 7 Stages of Data Visualization:
 1. ACQUIRE: Ingest real-world raw dataset

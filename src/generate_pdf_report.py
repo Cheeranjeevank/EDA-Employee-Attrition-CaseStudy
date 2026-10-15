@@ -138,7 +138,7 @@ def generate_pdf():
         ("Student Name:", "Cheeranjeevan K"),
         ("Roll Number:", "24AD023"),
         ("Degree & Department:", "B.Tech. Artificial Intelligence and Data Science"),
-        ("Batch / Semester:", "Batch 2023-2027 / Semester V"),
+        ("Batch / Semester:", "Batch 2024-2028 / Semester V"),
         ("Course Title & Code:", "Exploratory Data Analysis & Visualization (U21ADP05)"),
         ("Course Coordinator:", "Mr. Rushikesh Kadam"),
         ("Academic Year:", "2026 - 2027 (Odd Semester)"),

@@ -29,7 +29,7 @@ def build_notebook():
 ### Course: Exploratory Data Analysis and Visualization (U21ADP05)
 **Department of Artificial Intelligence and Data Science**  
 **KPR Institute of Engineering and Technology**  
-**Academic Year:** 2026-2027 (Odd Semester) | **Batch:** 2023-2027 (Semester V)  
+**Academic Year:** 2026-2027 (Odd Semester) | **Batch:** 2024-2028 (Semester V)  
 **Author:** Cheeranjeevan K (Roll No: `24AD023`)  
 **Course Coordinator:** Mr. Rushikesh Kadam  
 
